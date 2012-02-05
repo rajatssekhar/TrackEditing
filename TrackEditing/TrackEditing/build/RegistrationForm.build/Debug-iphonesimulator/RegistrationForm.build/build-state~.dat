@@ -1,0 +1,256 @@
+TRegistrationForm
+v7
+r0
+t316368017.385619
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/Info.plist" RegistrationForm-Info.plist
+cCompileXIB "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/MainWindow.xib"
+cCompileXIB "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/RegistrationFormViewController.xib"
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RegistrationForm_Prefix-giqkkuhmoamxrxblevixkvvbxgov/RegistrationForm_Prefix.pch.gch RegistrationForm_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationFormAppDelegate.o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationFormViewController.o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm" normal i386
+cGenerateDSYMFile "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app.dSYM" "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm"
+cTouch "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormAppDelegate.h
+c000000004D2B2AC0000000000000020D
+t1294674624
+s525
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormAppDelegate.m
+c000000004D2B2AC00000000000000ABA
+t1294674624
+s2746
+i"RegistrationFormAppDelegate.h"
+i"RegistrationFormViewController.h"
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormViewController.h
+c000000004D2B2AC00000000000000101
+t1294674624
+s257
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormViewController.m
+c000000004D2B2AC000000000000005DD
+t1294674624
+s1501
+i"RegistrationFormViewController.h"
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/MainWindow.xib
+c000000004D2B2AC00000000000004E95
+t1294674624
+s20117
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/RegistrationFormViewController.xib
+c000000004D2B2D0D00000000000060A3
+t1294675213
+s24739
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/RegistrationForm_Prefix.pch
+c000000004D2B2AC000000000000000C9
+t1294674624
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app
+t1294675217
+s238
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app.dSYM
+t1294675217
+s102
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/Info.plist
+t1294675215
+s633
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/MainWindow.nib
+t1294675216
+s1141
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/PkgInfo
+t1294675215
+s8
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm
+t1294675217
+s17660
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationFormViewController.nib
+t1294675216
+s1978
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationForm.LinkFileList
+c000000004D2B2D0F0000000000000214
+t1294675215
+s532
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationFormAppDelegate.o
+t1294675217
+s51452
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationFormViewController.o
+t1294675217
+s37732
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/main.o
+t1294675217
+s6344
+
+N/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/main.m
+c000000004D2B2AC0000000000000016A
+t1294674624
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RegistrationForm_Prefix-giqkkuhmoamxrxblevixkvvbxgov/RegistrationForm_Prefix.pch.gch
+t1294675217
+s15453392
+
+NRegistrationForm-Info.plist
+c000000004D2B2AC0000000000000038D
+t1294674624
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316368015#316368015#0(0"0(0#1#0"8617408192#0"0#
+
+CCompileC build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationFormAppDelegate.o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316368017.119565
+e316368017.206029
+r1
+xCompileC
+xbuild/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationFormAppDelegate.o
+x/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormAppDelegate.m316368017#316368017#0(0"0(0#0#97"/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormAppDelegate.m8620430304#2401"    cd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RegistrationForm_Prefix-giqkkuhmoamxrxblevixkvvbxgov/RegistrationForm_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormAppDelegate.m" -o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationFormAppDelegate.o"0#
+
+CCompileC build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationFormViewController.o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316368017.177894
+e316368017.249413
+r1
+xCompileC
+xbuild/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationFormViewController.o
+x/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormViewController.m316368017#316368017#0(0"0(0#0#100"/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormViewController.m8617708384#2407"    cd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RegistrationForm_Prefix-giqkkuhmoamxrxblevixkvvbxgov/RegistrationForm_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/Classes/RegistrationFormViewController.m" -o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationFormViewController.o"0#
+
+CCompileC build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316368017.117745
+e316368017.177780
+r1
+xCompileC
+xbuild/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sathish/Documents/iPhone Mobile App/RegistrationForm/main.m316368017#316368017#0(0"0(0#0#66"/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/main.m8616954560#2347"    cd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RegistrationForm_Prefix-giqkkuhmoamxrxblevixkvvbxgov/RegistrationForm_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/main.m" -o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/MainWindow.xib"
+s316368015.816124
+e316368016.286542
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316368015#316368016#0(0"0(0#0#74"/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/MainWindow.xib8606524576#648"    cd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/MainWindow.nib" "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/RegistrationFormViewController.xib"
+s316368015.816838
+e316368016.337991
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/RegistrationFormViewController.xib
+lSLF07#2@45"CompileXIB RegistrationFormViewController.xib316368015#316368016#0(0"0(0#0#94"/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/RegistrationFormViewController.xib8598238464#688"    cd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationFormViewController.nib" "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/RegistrationFormViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app.dSYM" "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm"
+s316368017.275021
+e316368017.290317
+r1
+xGenerateDSYMFile
+x/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app.dSYM
+x/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/RegistrationForm.app.dSYM build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm316368017#316368017#0(0"0(0#0#125"/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm8606302624#479"    cd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm" -o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app.dSYM"0#
+
+CLd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm" normal i386
+s316368017.249504
+e316368017.274914
+r1
+xLd
+x/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm
+xnormal
+xi386
+lSLF07#2@130"Link /Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm316368017#316368017#0(0"0(0#0#0"8616818720#1060"    cd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator" "-F/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator" -filelist "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/Objects-normal/i386/RegistrationForm.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/RegistrationForm"0#
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/Info.plist" RegistrationForm-Info.plist
+s316368015.812985
+e316368015.816046
+r1
+xProcessInfoPlistFile
+x/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/Info.plist
+xRegistrationForm-Info.plist
+lSLF07#2@35"Process RegistrationForm-Info.plist316368015#316368015#0(0"0(0#0#87"/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/RegistrationForm-Info.plist8598721664#575"    cd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RegistrationForm-Info.plist -genpkginfo "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app/Info.plist"0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RegistrationForm_Prefix-giqkkuhmoamxrxblevixkvvbxgov/RegistrationForm_Prefix.pch.gch RegistrationForm_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316368016.338112
+e316368017.117479
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RegistrationForm_Prefix-giqkkuhmoamxrxblevixkvvbxgov/RegistrationForm_Prefix.pch.gch
+xRegistrationForm_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile RegistrationForm_Prefix.pch316368016#316368017#0(0"0(0#0#87"/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/RegistrationForm_Prefix.pch8596667488#2207"    cd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/RegistrationForm-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/RegistrationForm.build/Debug-iphonesimulator/RegistrationForm.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/RegistrationForm_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RegistrationForm_Prefix-giqkkuhmoamxrxblevixkvvbxgov/RegistrationForm_Prefix.pch.gch0#
+
+CTouch "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app"
+s316368017.290407
+e316368017.385457
+r1
+xTouch
+x/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app
+lSLF07#2@114"Touch /Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app316368017#316368017#0(0"0(0#0#0"8597243040#333"    cd "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sathish/Documents/iPhone Mobile App/RegistrationForm/build/Debug-iphonesimulator/RegistrationForm.app"0#
+
